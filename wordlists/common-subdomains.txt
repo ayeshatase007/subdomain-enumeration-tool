@@ -1,0 +1,24 @@
+# common subdomains - sample
+www
+mail
+ftp
+smtp
+webmail
+admin
+portal
+api
+test
+dev
+staging
+shop
+blog
+m
+img
+static
+cdn
+vpn
+secure
+support
+beta
+old
+backup

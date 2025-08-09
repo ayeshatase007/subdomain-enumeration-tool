@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+found_*.txt
+*.log
+.DS_Store
